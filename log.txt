@@ -1,0 +1,11 @@
+commit 912edaaf98d67e9bf35a9e06db9fc0d44ba497a6
+Author: ksenia <ksyu.guseva.0101@mail.ru>
+Date:   Thu Oct 1 21:13:34 2026 +0300
+
+    добавили изменения в README и добавили diff
+
+commit 24405990c1812bf4b8c8dc6afda6874d64719ccc
+Author: ksenia <ksyu.guseva.0101@mail.ru>
+Date:   Thu Oct 1 21:05:42 2026 +0300
+
+    добавили файл в папку
